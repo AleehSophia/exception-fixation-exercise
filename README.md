@@ -1,3 +1,5 @@
+# :sparkles:About the project:sparkles:
+
 Do a program that read data from a bank account and after
 that, make a withdraw in this account, showing the new balance.
 
@@ -5,7 +7,7 @@ that, make a withdraw in this account, showing the new balance.
 A withdraw can't happen if there is no balance in the account,
 or if the withdraw amount is higher to the balance's withdraw limit.
 
-#### Diagram
+#### :sparkles:Diagram:sparkles:
 <div align="center">
     <img src="./assets/bankAccountDiagram.svg"/>
 </div>
