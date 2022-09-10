@@ -11,3 +11,12 @@ or if the withdraw amount is higher to the balance's withdraw limit.
 <div align="center">
     <img src="./assets/bankAccountDiagram.svg"/>
 </div>
+
+#### :sparkles:Output:sparkles:
+![output](./assets/output.png)
+
+#### :sparkles:Output exception No balance:sparkles:
+![output](./assets/exception-nobalance-output.png)
+
+#### :sparkles:Output exception withdraw limit:sparkles:
+![output](./assets/exception-withdrawlimit-output.png)
